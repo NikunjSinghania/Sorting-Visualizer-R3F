@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { Canvas, useFrame } from 'react-three-fiber'
+import { Canvas, useFrame } from '@react-three/fiber'
 import Box  from './Component/Box'
 import { OrbitControls } from '@react-three/drei';
 import { useEffect, useRef, useState } from 'react';
